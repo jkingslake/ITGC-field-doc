@@ -14,7 +14,7 @@ The text of the document is located in [index.md](https://github.com/ldeo-glacio
 
 All feedback and edits are welcome. To comment or suggest changes you can create an GitHub issue or you can make specific changes to [index.md](https://github.com/ldeo-glaciology/ITGC-field-doc/blob/main/index.md) and submit them as a pull request. 
 
-Alternatively contact Jonny Kingslake ([j.kingslake@columbia.edu]()) or the ITGC Science and Coordinateion Office ([betsys@nsidc.org]()).
+Alternatively contact Jonny Kingslake ([j.kingslake@columbia.edu]()) or the ITGC Science and Coordination Office ([betsys@nsidc.org]()).
 
 Please cite this document as follows: 
 “International Thwaites Glacier Collaboration IDEA Council" (2021). “ITGC field and ship best practices” (Version 1.0). https://doi.org/10.5281/zenodo.5789786
