@@ -17,7 +17,7 @@ All feedback and edits are welcome. To comment or suggest changes you can create
 Alternatively contact Jonny Kingslake ([j.kingslake@columbia.edu]()) or the ITGC Science and Coordination Office ([betsys@nsidc.org]()).
 
 Please cite this document as follows: 
-“International Thwaites Glacier Collaboration IDEA Council" (2021). ITGC field and ship best practices (Version 1.0.1). [https://doi.org/10.5281/zenodo.5789786](https://doi.org/10.5281/zenodo.5789786)
+“International Thwaites Glacier Collaboration IDEA Council" (2021). ITGC field and ship best practices (Version 2.0.2). [https://doi.org/10.5281/zenodo.5789786](https://doi.org/10.5281/zenodo.5789786)
 
 
 
